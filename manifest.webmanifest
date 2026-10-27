@@ -1,0 +1,13 @@
+{
+  "name": "Python 第一课 · 运行你的第一个程序",
+  "short_name": "Python 课堂",
+  "description": "中文交互 Notebook，首次准备后可以离线运行 Python。",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8faf8",
+  "theme_color": "#225c44",
+  "lang": "zh-CN",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
