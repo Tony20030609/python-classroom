@@ -17,6 +17,9 @@ async function initialize() {
   const runtimeURL = new URL('./runtime/', self.location.href).href;
   importScripts(`${runtimeURL}pyodide.js`);
   python = await loadPyodide({ indexURL: runtimeURL });
+  const helperResponse = await fetch(new URL('./course/helper_functions.py', self.location.href));
+  if (!helperResponse.ok) throw new Error('离线提示词辅助模块加载失败，请联网准备资源后重试。');
+  python.FS.writeFile('/home/pyodide/helper_functions.py', await helperResponse.text());
   pythonRepr = python.runPython('repr');
   const attachStream = (type) => {
     const decoder = new TextDecoder();

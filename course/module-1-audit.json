@@ -1,0 +1,30 @@
+[
+  {
+    "lesson": 6,
+    "cells": 44,
+    "code": 20,
+    "markdown": 24,
+    "originalSha256": "d46a04578a2478f69b27acfd45414d0fde77e4ba35212db7e2b2cdce11dd9cb2"
+  },
+  {
+    "lesson": 7,
+    "cells": 32,
+    "code": 12,
+    "markdown": 20,
+    "originalSha256": "fa5a50020a27a16a2d515354f688ab14aa764ea6c67b4242428fa11e43e5daf6"
+  },
+  {
+    "lesson": 8,
+    "cells": 58,
+    "code": 27,
+    "markdown": 31,
+    "originalSha256": "6b137be3b9a80fea286c6b61f152c40d755e64b0660cee384a09d68628f07003"
+  },
+  {
+    "lesson": 9,
+    "cells": 18,
+    "code": 8,
+    "markdown": 10,
+    "originalSha256": "b25ae476314d4172cc2e05286a24a31e51dd713763138de36db90dd3f53bd9e5"
+  }
+]

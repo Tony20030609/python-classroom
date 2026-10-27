@@ -1,10 +1,30 @@
 {
-  "version": "55a9c8e4ba9149294e93",
+  "version": "35007b22e1a97d42304a",
   "files": [
     {
       "url": "assets/index-BgY8bV3F.js",
       "size": 560999,
       "sha256": "b599a8b36d2f3f44bb701201aedea8f2b142dcf7591526ac072a60cd75bb73bc"
+    },
+    {
+      "url": "assets/index-BVGX6B8c.css",
+      "size": 19300,
+      "sha256": "42d7287eac46d543b21966e4c1800353abd577d3ceca048bfac7fd27ccf9389d"
+    },
+    {
+      "url": "assets/index-CCA00tG_.js",
+      "size": 563847,
+      "sha256": "b7fb9f7477cee28a01401015829eb2de85f9b9b7ae5af2beb18beca782518f0f"
+    },
+    {
+      "url": "assets/index-CcvlomDm.js",
+      "size": 564304,
+      "sha256": "bc6e7c12cdfeea96206487252fff88eceb94a504954054f4ed68db5dd0931f6d"
+    },
+    {
+      "url": "assets/index-CgXUHhsW.css",
+      "size": 19679,
+      "sha256": "c75fa6558b90008b169bb4fb6071fbff2936600f0f50ba5f53884285bdb49ed2"
     },
     {
       "url": "assets/index-DxYmen-b.js",
@@ -22,6 +42,11 @@
       "sha256": "aadd5957ba0c3da1a9ccff87017a8ec3cfd092ad88f1671c409680dff441835f"
     },
     {
+      "url": "course/helper_functions.py",
+      "size": 633,
+      "sha256": "2aa88e175ac38e2c408985bbdb599adf1ca54a30ec08e9d33201a3dd08f99335"
+    },
+    {
       "url": "course/Lesson_4.original.ipynb",
       "size": 8284,
       "sha256": "0b62ba5e4e7c2a65a56fafb05f993dbb7517025c80c8fbcf8aa93928730e7b7c"
@@ -32,24 +57,69 @@
       "sha256": "89a4c50109c216efbbebff00b943bba1c31c7e93f87aae54ef9b7e54b8aec80b"
     },
     {
+      "url": "course/Lesson_6.original.ipynb",
+      "size": 9043,
+      "sha256": "d46a04578a2478f69b27acfd45414d0fde77e4ba35212db7e2b2cdce11dd9cb2"
+    },
+    {
+      "url": "course/Lesson_6.zh.ipynb",
+      "size": 8878,
+      "sha256": "9ddc07400f4fe3b36e545a1c56639c503781c761ef0d1d21d296938b6c995548"
+    },
+    {
+      "url": "course/Lesson_7.original.ipynb",
+      "size": 10421,
+      "sha256": "fa5a50020a27a16a2d515354f688ab14aa764ea6c67b4242428fa11e43e5daf6"
+    },
+    {
+      "url": "course/Lesson_7.zh.ipynb",
+      "size": 9446,
+      "sha256": "703ada19c876c123c6eb58407ec93bca42a7e966d9737a136dc34c8b616aa658"
+    },
+    {
+      "url": "course/Lesson_8.original.ipynb",
+      "size": 14739,
+      "sha256": "6b137be3b9a80fea286c6b61f152c40d755e64b0660cee384a09d68628f07003"
+    },
+    {
+      "url": "course/Lesson_8.zh.ipynb",
+      "size": 14018,
+      "sha256": "a75bec0486de34aef537a9935fff08167ca8fb383484af2c370bbf6811d47466"
+    },
+    {
+      "url": "course/Lesson_9.original.ipynb",
+      "size": 5580,
+      "sha256": "b25ae476314d4172cc2e05286a24a31e51dd713763138de36db90dd3f53bd9e5"
+    },
+    {
+      "url": "course/Lesson_9.zh.ipynb",
+      "size": 6239,
+      "sha256": "e15b018e283291c33ba6d79aa3422905f907ce6cbddbb1f876b35ff306b2bd8d"
+    },
+    {
+      "url": "course/module-1-audit.json",
+      "size": 674,
+      "sha256": "a4f0639c9056b0436d2327d1943a8e5fe24623bfc0f1e2e1dd391d8b938fe3df"
+    },
+    {
       "url": "icon.svg",
       "size": 259,
       "sha256": "7bb8717f7fd4b04f0b7912d78b2719ee80fa6ca7017f042c4c4f6bb0bd0bbd7f"
     },
     {
       "url": "index.html",
-      "size": 847,
-      "sha256": "75aab3c8a7457be9dbe332fc29019e8d3c5e05c18187892047dc47344ef2f007"
+      "size": 858,
+      "sha256": "60fc6e2ec72223a53595387d5812e37a6cb2383485600000afe970c1e0a7ecbb"
     },
     {
       "url": "manifest.webmanifest",
-      "size": 450,
-      "sha256": "c02d3711ae380c2f66d937b29f116cbd0a39c952b81310c71eda2800065dbd57"
+      "size": 434,
+      "sha256": "7f96f965d3f654a0b4137280bf1e2c1b4f6016f59636fe735c23494d7cc3f7ae"
     },
     {
       "url": "python-worker.js",
-      "size": 3001,
-      "sha256": "02d4abb00c1fa195924fdf6556b7627ed786b6019266d145c7109780d7736157"
+      "size": 3311,
+      "sha256": "f9daebbdc447ded0cb05f9d065229ddd922cbb9a0c112c1810abd22615d43441"
     },
     {
       "url": "runtime/LICENSE",
