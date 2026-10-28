@@ -1,5 +1,5 @@
 {
-  "version": "35007b22e1a97d42304a",
+  "version": "51fdfcc2c919c6a48b3e",
   "files": [
     {
       "url": "assets/index-BgY8bV3F.js",
@@ -10,6 +10,11 @@
       "url": "assets/index-BVGX6B8c.css",
       "size": 19300,
       "sha256": "42d7287eac46d543b21966e4c1800353abd577d3ceca048bfac7fd27ccf9389d"
+    },
+    {
+      "url": "assets/index-Cbjq-5R8.js",
+      "size": 563861,
+      "sha256": "14bfe14ff0fdeb45d536e93a44bdc79cae31458ff80e34fcb81af8d256c4de78"
     },
     {
       "url": "assets/index-CCA00tG_.js",
@@ -109,7 +114,7 @@
     {
       "url": "index.html",
       "size": 858,
-      "sha256": "60fc6e2ec72223a53595387d5812e37a6cb2383485600000afe970c1e0a7ecbb"
+      "sha256": "aab9584bb161eb8edaa2d2037899fbaeb3ce0757a78c5b81d181bc2a69997835"
     },
     {
       "url": "manifest.webmanifest",
